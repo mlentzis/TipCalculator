@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+
+    <!-- Main.xml Strings -->
+
+    <string name="enter_bill">Enter the total bill amount </string>
+    <string name="enter_tip">Select a tip amount </string>
+
+
+    <!-- Result.xml Strings -->
+
+    <string name="tip_amount">Your tip is: </string>
+    <string name="total_amount">Your new total is: </string>
+    <string name="button_finished">Finished</string>
+
+    <!--  Error Strings -->
+
+    <string name="error_et">Oops! Please enter a value as your total bill.</string>
+
+</resources>
